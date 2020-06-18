@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2896683-aa84-458c-80d9-b830baee6af7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dVCWG9kNRB0CNEt5qXVTRnO9oL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2896683-aa84-458c-80d9-b830baee6af7" name="Default Changelist" comment="" />
+      <created>1592500907668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592500907668</updated>
+      <workItem from="1592500947842" duration="3314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="825" y="0" key="CommitChangelistDialog2" timestamp="1592503459874">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="825" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1592503459874" />
+    <state width="762" height="219" key="GridCell.Tab.0.bottom" timestamp="1592503424336">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="762" height="219" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592503424336" />
+    <state width="762" height="219" key="GridCell.Tab.0.center" timestamp="1592503424335">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="762" height="219" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1592503424335" />
+    <state width="762" height="219" key="GridCell.Tab.0.left" timestamp="1592503424334">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="762" height="219" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1592503424334" />
+    <state width="762" height="219" key="GridCell.Tab.0.right" timestamp="1592503424335">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="762" height="219" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592503424335" />
+  </component>
+</project>
