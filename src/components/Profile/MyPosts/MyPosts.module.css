@@ -1,7 +1,8 @@
-.content {
-    grid-area: c;
-    background-color: blue;
+
+.posts{
+    margin-top: 10px;
 }
-.item {
-    color: green;
+
+.postsBlock {
+    padding: 10px;
 }
