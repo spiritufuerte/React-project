@@ -3,6 +3,9 @@ import classes from './MyPosts.module.css';
 import Post from "./Post/Post";
 
 const MyPosts = (props) => {
+
+
+
     return (
         <div className={classes.postsBlock}>
             <h3>my post</h3>
@@ -15,8 +18,7 @@ const MyPosts = (props) => {
                 </div>
             </div>
             <div className={classes.posts}>
-                <Post message='Hi, how are you?' likesCount='0'/>
-                <Post message='Its my first post' likesCount='23'/>
+                {props.postsData.map(item => <Post message={item.message} likesCount={item.likesCount}/>)}
             </div>
         </div>
     );
