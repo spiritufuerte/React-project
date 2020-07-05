@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2896683-aa84-458c-80d9-b830baee6af7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+    <list default="true" id="b2896683-aa84-458c-80d9-b830baee6af7" name="Default Changelist" comment="add DATA to state.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +27,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs/Message" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vasia\React-project\src" />
       <recent name="C:\Users\vasia\React-project\src\components\Dialogs\Message" />
       <recent name="C:\Users\vasia\React-project\src\components\Dialogs\DialogItem" />
       <recent name="C:\Users\vasia\React-project\src\components\Profile\ProfileInfo" />
@@ -81,7 +76,8 @@
       <workItem from="1592500947842" duration="6257000" />
       <workItem from="1592577124343" duration="1737000" />
       <workItem from="1593593561386" duration="9997000" />
-      <workItem from="1593682372752" duration="23902000" />
+      <workItem from="1593682372752" duration="31942000" />
+      <workItem from="1593861125529" duration="6439000" />
     </task>
     <task id="LOCAL-00001" summary="use module css">
       <created>1592513149549</created>
@@ -104,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593698454930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add DATA to state.js">
+      <created>1593778243082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593778243082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,13 +116,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="use module css" />
     <MESSAGE value="made structure for social network" />
-    <option name="LAST_COMMIT_MESSAGE" value="made structure for social network" />
+    <MESSAGE value="add DATA to state.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DATA to state.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="678" y="0" key="CommitChangelistDialog2" timestamp="1593698433215">
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593906375044">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="678" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1593698433215" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593906375044" />
+    <state x="678" y="0" key="CommitChangelistDialog2" timestamp="1593907973821">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="678" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1593907973821" />
     <state width="762" height="219" key="GridCell.Tab.0.bottom" timestamp="1592503424336">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -136,10 +144,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="762" height="219" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592503424335" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1593698489877">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1593778251998">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593698489877" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593778251998" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1593777163074">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -150,7 +158,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
