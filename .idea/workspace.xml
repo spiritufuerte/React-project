@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2896683-aa84-458c-80d9-b830baee6af7" name="Default Changelist" comment="add DATA to state.js">
+    <list default="true" id="b2896683-aa84-458c-80d9-b830baee6af7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
     </list>
@@ -77,7 +74,9 @@
       <workItem from="1592577124343" duration="1737000" />
       <workItem from="1593593561386" duration="9997000" />
       <workItem from="1593682372752" duration="31942000" />
-      <workItem from="1593861125529" duration="6439000" />
+      <workItem from="1593861125529" duration="7113000" />
+      <workItem from="1594018480809" duration="1768000" />
+      <workItem from="1594052638944" duration="3321000" />
     </task>
     <task id="LOCAL-00001" summary="use module css">
       <created>1592513149549</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593778243082</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactoring my code">
+      <created>1593908390417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593908390417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,17 +123,18 @@
     <MESSAGE value="use module css" />
     <MESSAGE value="made structure for social network" />
     <MESSAGE value="add DATA to state.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DATA to state.js" />
+    <MESSAGE value="refactoring my code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring my code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593906375044">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593906375044" />
-    <state x="678" y="0" key="CommitChangelistDialog2" timestamp="1593907973821">
+    <state x="678" y="0" key="CommitChangelistDialog2" timestamp="1593908386812">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="678" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1593907973821" />
+    <state x="678" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1593908386812" />
     <state width="762" height="219" key="GridCell.Tab.0.bottom" timestamp="1592503424336">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -144,10 +151,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="762" height="219" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592503424335" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1593778251998">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1593908403763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593778251998" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593908403763" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1593777163074">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
